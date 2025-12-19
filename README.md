@@ -36,12 +36,10 @@ This repository contains an **exploratory data analysis (EDA)** of Amazon's top-
 - Average rating by product type  
 - Correlation heatmap of numeric features  
 
-*(You can add actual screenshots of your plots here to make it visually appealing)*
-
 ---
 
 ## How to Run
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/mohitjaryal/best_sellers_2025.git
+git clone https://github.com/mohitjaryal/amazon_best_sellers_2025.git
