@@ -50,5 +50,5 @@ pip install requirements.txt
 ```
 
 ## Author
-[Contact Mohit Jaryal](https://mohitjaryal.online)
+[Mohit Jaryal](https://mohitjaryal.online)
 
