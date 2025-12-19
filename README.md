@@ -42,7 +42,11 @@ This repository contains an **exploratory data analysis (EDA)** of Amazon's top-
 1. Clone the repository:
 
 ```bash
+
 git clone https://github.com/mohitjaryal/amazon_best_sellers_2025.git
+
+pip install requirements.txt
+
 ```
 
 ## Author
