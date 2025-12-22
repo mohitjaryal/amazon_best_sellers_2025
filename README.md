@@ -1,4 +1,4 @@
-# Amazon Best Sellers 2025 — Exploratory Data Analysis
+# Amazon Best Sellers 2025 - Exploratory Data Analysis
 
 ![GitHub Repo Size](https://img.shields.io/badge/Status-Active-brightgreen)
 
