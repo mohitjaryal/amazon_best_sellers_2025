@@ -37,6 +37,21 @@ This repository contains an **exploratory data analysis (EDA)** of Amazon's top-
 - Correlation heatmap of numeric features  
 
 ---
+## 📊 Key Features & Visualizations
+- **Univariate Analysis:** Histograms and count plots for product ratings, reviews, and prices.  
+- **Bivariate Analysis:** Scatter plots, boxplots, and violin plots to explore relationships between numeric and categorical features.  
+- **Correlation Analysis:** Heatmaps to identify relationships among numeric features like rating, reviews, price, and rank.  
+- **Top Products Analysis:** Identify top-rated and most-reviewed products with bar plots.  
+- **Country-wise Insights:** Visualize pricing trends and product distribution across different countries.
+
+---
+## 🏆 Key Insights
+- Most-reviewed products are not always the highest-rated.  
+- Price and number of reviews show interesting trends depending on the country.  
+- Correlation analysis highlights relationships between **rating, reviews, price, and rank**.  
+- Visualizations provide actionable insights for marketing, sales, and product strategy.
+
+---
 
 ## How to Run
 1. Clone the repository:
